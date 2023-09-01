@@ -1,0 +1,4 @@
+x: A C T A A T
+y: T - - G C T
+Score: 1
+
